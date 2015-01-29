@@ -1,0 +1,12 @@
+{
+	"name": "element.crawler",
+	"description": "Given a URL and an HTML element in a jquery selector type format, processes the page and any links found within it to check to see if the element exists",
+	"author": "Alex Pendrey",
+	"license": "MIT",
+	"dependencies": {
+		"cheerio": ">=0.18.0",
+		"request": ">=2.51.0",
+		"q": "~1.1.2",
+		"colors": "~1.0.3"
+	}
+}
