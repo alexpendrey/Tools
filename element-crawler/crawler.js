@@ -41,7 +41,7 @@ function nextUrl(urls, el) {
 		});
 	}
 	else {
-		console.log('Finished processing URLs');
+		console.log('Finished processing URLs. Output:');
 		console.log(urlList);
 	}
 }
